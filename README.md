@@ -55,3 +55,11 @@ This document is a log of the behavior of `git describe` in various states of a 
     ```
 1. Added More commits
 1. Tag _previous commit_
+1. After merging forkb into forka:
+    ```
+    jpollak at Veterok in ~/src/git-tests (forka●●)(merge)
+    $ git describe --tags --abbrev=0
+    v1.0.1
+    ```
+    So that is good...
+
