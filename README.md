@@ -41,3 +41,11 @@ This document is a log of the behavior of `git describe` in various states of a 
     v1.0.0
     ```
     As expected
+1. To get the sha of a tag:
+    ```
+    jpollak at Veterok in ~/src/git-tests (forka)
+    $ git rev-list -n 1 v1.0.1
+    b812b64072834cc8e883cb7e57ab6804c97b724c
+    ```
+
+
