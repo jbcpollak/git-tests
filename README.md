@@ -35,3 +35,4 @@ This document is a log of the behavior of `git describe` in various states of a 
     ```
 1. Added More commits
 1. Tag _previous commit_
+1. Trying to do a semantic-release version calc - I'm expecting v1.0.2-forka1
