@@ -26,3 +26,10 @@ This document is a log of the behavior of `git describe` in various states of a 
     $ git describe
     v1.0.0
     ```
+1. After a second commit
+    ```
+    jpollak at Veterok in ~/src/git-tests (master)
+    $ git describe
+    v1.0.0-1-g9ded7c3
+    ```
+1. Added branch `fork1`
