@@ -35,4 +35,9 @@ This document is a log of the behavior of `git describe` in various states of a 
 1. Added branch `fork1`
 1. fork2 stuff here...
 1. Another commit on fork1
-
+    ```
+    jpollak at Veterok in ~/src/git-tests (fork1)
+    $ git describe --tags --abbrev=0
+    v1.0.0
+    ```
+    As expected
