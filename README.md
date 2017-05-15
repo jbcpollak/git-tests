@@ -32,11 +32,11 @@ This document is a log of the behavior of `git describe` in various states of a 
     $ git describe
     v1.0.0-1-g9ded7c3
     ```
-1. Added branch `fork1`
-1. fork2 stuff here...
-1. Another commit on fork1
+1. Added branch `forka`
+1. forkb stuff here...
+1. Another commit on forka
     ```
-    jpollak at Veterok in ~/src/git-tests (fork1)
+    jpollak at Veterok in ~/src/git-tests (forka)
     $ git describe --tags --abbrev=0
     v1.0.0
     ```
