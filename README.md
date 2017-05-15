@@ -33,7 +33,13 @@ This document is a log of the behavior of `git describe` in various states of a 
     v1.0.0-1-g9ded7c3
     ```
 1. Added branch `forka`
-1. forkb stuff here...
+1. Added branch `forkb`
+1. After commit on branch forkb:
+    ```
+    jpollak at Veterok in ~/src/git-tests (fork2)
+    $ git describe --tags
+    v1.0.0-2-g88520c3
+    ```
 1. Another commit on forka
     ```
     jpollak at Veterok in ~/src/git-tests (forka)
@@ -47,5 +53,5 @@ This document is a log of the behavior of `git describe` in various states of a 
     $ git rev-list -n 1 v1.0.1
     b812b64072834cc8e883cb7e57ab6804c97b724c
     ```
-
-
+1. Added More commits
+1. Tag _previous commit_
