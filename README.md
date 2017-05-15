@@ -33,3 +33,6 @@ This document is a log of the behavior of `git describe` in various states of a 
     v1.0.0-1-g9ded7c3
     ```
 1. Added branch `fork1`
+1. fork2 stuff here...
+1. Another commit on fork1
+
