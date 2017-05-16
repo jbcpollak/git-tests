@@ -26,3 +26,7 @@ This document is a log of the behavior of `git describe` in various states of a 
     $ git describe
     v1.0.0
     ```
+
+
+Features
+1. Feature 1 directly on master
