@@ -67,3 +67,4 @@ Features
 
 1. Feature 1 directly on master
 1. Implemented feature c
+1. Fixed a bug on develop
