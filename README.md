@@ -74,3 +74,4 @@ Features
 1. This is another commit to feature/forkc
 1. Making a change to develop
 1. A change after v1.2.0 was made
+1. one final test
