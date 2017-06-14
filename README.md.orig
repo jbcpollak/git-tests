@@ -62,11 +62,17 @@ This document is a log of the behavior of `git describe` in various states of a 
     v1.0.1
     ```
     So that is good...
-    
+
 Features
 
 1. Feature 1 directly on master
 1. Implemented feature c
 1. Fixed a bug on develop
+1. 28 days later, more work
+1. Trying to add more to forka
+1. This is feature/forkc
+1. This is another commit to feature/forkc
+=======
 1. Making a change to develop
-1. A change after v1.2.0 was made
+
+>>>>>>> develop
