@@ -75,3 +75,4 @@ Features
 1. Making a change to develop
 1. A change after v1.2.0 was made
 1. one final test
+1. experimenting with a branch with a hyphen
