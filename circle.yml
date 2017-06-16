@@ -10,7 +10,7 @@ dependencies:
 
 test:
    override:
-     - true
+     - echo "Success"
 #  pre:
 #    - mkdir -p $CIRCLE_TEST_REPORTS/mocha
 #  override:
